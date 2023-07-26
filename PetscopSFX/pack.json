@@ -1,0 +1,18 @@
+{
+  "name": "Petscop SFX",
+  "description": "Various sounds from the webseries Petscop.",
+  "author": "limineow",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": false,
+"ignore": [
+  "bumper_end.wav",
+  "confirmation_negative.wav",
+  "confirmation_positive.wav",
+  "deck_ui_message_toast.wav",
+  "deck_ui_misc_01.wav",
+  "deck_ui_misc_08.wav",
+  "pop_sound.wav",
+],
+  "mappings": {}
+}
