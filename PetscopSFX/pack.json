@@ -12,7 +12,7 @@
   "deck_ui_message_toast.wav",
   "deck_ui_misc_01.wav",
   "deck_ui_misc_08.wav",
-  "pop_sound.wav",
+  "pop_sound.wav"
 ],
   "mappings": {
     "deck_ui_achievement_toast.wav": ["deck_ui_achievement_toast.wav", "alt/deck_ui_achievement_toast_alt.wav"],
