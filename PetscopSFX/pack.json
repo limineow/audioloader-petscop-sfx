@@ -18,6 +18,6 @@
     "deck_ui_achievement_toast.wav": ["deck_ui_achievement_toast.wav", "alt/deck_ui_achievement_toast_alt.wav"],
     "deck_ui_toast.wav": ["deck_ui_toast.wav", "alt/deck_ui_toast_alt.wav", "alt/deck_ui_toast_alt1.wav"],
     "deck_ui_misc_10.wav": ["deck_ui_misc_10.wav", "alt/deck_ui_misc_10_alt.wav"],
-    "deck_ui_side_menu_fly_in.wav" ["deck_ui_side_menu_fly_in.wav", "alt/deck_ui_side_menu_fly_in_alt.wav", "alt/deck_ui_side_menu_fly_in_alt1.wav"]
+    "deck_ui_side_menu_fly_in.wav": ["deck_ui_side_menu_fly_in.wav", "alt/deck_ui_side_menu_fly_in_alt.wav", "alt/deck_ui_side_menu_fly_in_alt1.wav"]
   }
 }
